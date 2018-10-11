@@ -1,0 +1,16 @@
+.btn{
+  padding: 15px 20px;
+  color: #eee;
+  text-transform: uppercase;
+  background: #111;
+  border: none;
+  transition: all .2s ease;
+  &:hover{
+    background: rgb(8, 46, 90);
+  }
+}
+
+input{
+  padding: 10px 20px;
+  border: none;
+}
